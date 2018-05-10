@@ -1,20 +1,20 @@
 {
-    "name": "composer/composer",
+    "name": "ertyuiops/epioshd",
     "description": "Composer helps you declare, manage and install dependencies of PHP projects, ensuring you have the right stack everywhere.",
     "keywords": ["package", "dependency", "autoload"],
-    "homepage": "https://getcomposer.org/",
+    "homepage": "http://bptwsoaff.blogspot.com/",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Nils Adermann",
             "email": "naderman@naderman.de",
-            "homepage": "http://www.naderman.de"
+            "homepage": "http://bptwsoaff.blogspot.com/"
         },
         {
             "name": "Jordi Boggiano",
             "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be"
+            "homepage": "http://bptwsoaff.blogspot.com/"
         }
     ],
     "support": {
